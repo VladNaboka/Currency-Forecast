@@ -58,4 +58,3 @@ df['Forecast'].plot()
 plt.legend(loc=4)
 plt.xlabel('Date')
 plt.show()
-
